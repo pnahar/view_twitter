@@ -1,0 +1,17 @@
+{
+  "name": "Twitter_test",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "client-sessions": "^0.8.0",
+    "ejs": "*",
+    "express": "^3.21.2",
+    "mysql": "^2.15.0",
+    "serve-favicon": "^2.5.0",
+    "sha1": "^1.1.1",
+    "sqlite3": "^4.0.4"
+  }
+}
